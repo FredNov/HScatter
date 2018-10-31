@@ -14,7 +14,7 @@ Houdini OBJ asset for scatter large amounts of geometry. Currently it supports M
 
 ![Help](Help/HScatter_bt.gif)
 
-If you spot any bug, please feel free to send me an email at gammany@gmail.com
+If you spot any bugs, please feel free to send me an email at gammany@gmail.com
 
 How to Install:
 
