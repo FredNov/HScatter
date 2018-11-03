@@ -1,6 +1,6 @@
 # HScatter
 
-Houdini OBJ asset for scatter large amounts of geometry. Currently it supports Mantra and Arnold
+Houdini OBJ asset for scatter large amounts of geometry instances. Currently it supports Mantra and Arnold
 
 - Scatters large amounts of geometry
 - Instance or Geometry mode
